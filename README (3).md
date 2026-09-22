@@ -117,4 +117,4 @@ Electric-Vehicle-Price-Prediction/
 ---
 
 ## 👩‍💻 Author
-JENOS 
+Subha S M
